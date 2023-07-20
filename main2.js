@@ -72,10 +72,6 @@ const simulador = () => {
 
 };
 
-simulador()
-
-
-
 //////// CREO LOS FILTROS
 
 // (FILTER)FILTRO POR DESCRIPCION
@@ -84,8 +80,16 @@ simulador()
 
 // FILTRO POR MONTO (ASC O DESC)
 
+
+
     //////// SIMULADOR ////////
 
+simulador()
 
-//CREAMOS LOS COMANDOS PARA LAS TRANSACCIONES
+
+
+
+
+
+
 
